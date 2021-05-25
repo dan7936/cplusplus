@@ -1,0 +1,3 @@
+/home/daniil/Рабочий стол/dev/CMakeFiles/rebuild_cache.dir
+/home/daniil/Рабочий стол/dev/CMakeFiles/edit_cache.dir
+/home/daniil/Рабочий стол/dev/CMakeFiles/main.dir
